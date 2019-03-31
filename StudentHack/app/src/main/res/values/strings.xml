@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Morty Factor</string>
+    <string name="title_activity_record_audio">RecordAudio</string>
+
+    <string name="title_activity_2">Activity2</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
